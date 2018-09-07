@@ -23,6 +23,7 @@
   "homepage": "https://github.com/prabhuvikas/cloud-manager-aws#readme",
   "dependencies": {
     "aws-sdk": "^2.310.0",
+    "dotenv": "^6.0.0",
     "uuid": "^3.3.2"
   }
 }
