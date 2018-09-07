@@ -1,0 +1,28 @@
+{
+  "name": "cloud-manager-aws",
+  "version": "1.0.0",
+  "description": "AWS Cloud scheduled start stop utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhuvikas/cloud-manager-aws.git"
+  },
+  "keywords": [
+    "aws",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "prabhuvikas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prabhuvikas/cloud-manager-aws/issues"
+  },
+  "homepage": "https://github.com/prabhuvikas/cloud-manager-aws#readme",
+  "dependencies": {
+    "aws-sdk": "^2.310.0",
+    "uuid": "^3.3.2"
+  }
+}
