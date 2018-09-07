@@ -1,5 +1,4 @@
-# CloudManager
+# AWS CloudManager
 
-- AWS Javascript SDK https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/EC2.html
-- 
+- Allows user to schedule your instance start stop at specific date and time.
 
